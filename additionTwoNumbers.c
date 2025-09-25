@@ -1,8 +1,8 @@
-#include<stdio.h>
-
+// Write a program to add two numbers.
+#include <stdio.h>
 int main()
 {
-    int num1 , num2 , sum;
+    int num1, num2, sum;
     printf("Entert the First Number : ");
     scanf("%d", &num1);
 

@@ -1,7 +1,6 @@
 // Calculate the area of a circle andmodify tha same pragram to calculate the volume of a cylinder given its radius and heigh.
 
 #include<stdio.h>
-
 int main()
 {
     int radius, height;

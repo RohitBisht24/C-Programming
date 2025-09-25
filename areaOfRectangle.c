@@ -1,5 +1,5 @@
-#include<stdio.h>
-
+// Write a program to find the area of rectangle.
+#include <stdio.h>
 int main()
 {
     int lenght, breadth, area;
