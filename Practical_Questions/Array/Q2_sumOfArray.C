@@ -1,6 +1,5 @@
 // 2. Write a C program to find sum of all arrays elements.
 #include<stdio.h>
-#include<conio.h>
 int main()
 {
     int n, sum ;

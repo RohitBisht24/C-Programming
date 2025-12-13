@@ -1,6 +1,5 @@
 // 3. Write a C program to find maximum and minimum element in an array.
 #include<stdio.h>
-#include<conio.h>
 #include<limits.h>
 int main ()
 {

@@ -1,6 +1,5 @@
 // 5. Write a C Program to count total Number os negative elements in an arrays.
 #include<stdio.h>
-#include<conio.h>
 int main()
 {
     int n ;
