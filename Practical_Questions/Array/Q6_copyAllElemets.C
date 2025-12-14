@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-// Q6. Write a C program to copy all elements form as array to another array.
-=======
 // 6. Write a C program to copy all elements form as array to another array.
->>>>>>> c9ede31b3789216f155b0114a35889afdb36aea5
 #include<stdio.h>
 int main()
 {
