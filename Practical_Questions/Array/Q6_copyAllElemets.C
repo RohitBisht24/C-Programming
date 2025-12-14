@@ -1,4 +1,4 @@
-// Write a C program to copy all elements form as array to another array.
+// Q6. Write a C program to copy all elements form as array to another array.
 #include<stdio.h>
 #include<conio.h>
 int main()

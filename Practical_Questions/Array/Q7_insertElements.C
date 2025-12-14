@@ -1,0 +1,1 @@
+// Q7. Write a C program to insert an element in an array.
