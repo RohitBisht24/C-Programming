@@ -1,6 +1,5 @@
 // 1. Write a C Program to read and print elements of array.
 #include<stdio.h>
-#include<conio.h>
 int main ()
 {
     int n;
