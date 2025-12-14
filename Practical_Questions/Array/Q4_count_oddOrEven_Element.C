@@ -1,6 +1,5 @@
 // 4. Write a C Program to count total number of even and odd elements in ar array.
 #include<stdio.h>
-
 int main ()
 {
     int countOdd = 0;
