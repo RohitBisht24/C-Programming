@@ -1,17 +1,16 @@
-//Accept the User's name, age and print in following manner (Ex - Hello Shery, you are 12 years old.)
-#include <stdio.h>
+// Accept two integers from user and print the sum (Ex - The sum of 45 & 12 = 57)
+#include<stdio.h>
+int main()
+{
+    int num1, num2, sum;
+     
+    printf("Enter First Number : ");
+    scanf("%d", &num1);
 
-int main() {
-    char name[50];   // Array to store name
-    int age;
+    printf("Enter Second Number : ");
+    scanf("%d", &num2);
 
-    printf("Enter your name: ");
-    scanf("%s", name);   // Reads string (without spaces)
-
-    printf("Enter your age: ");
-    scanf("%d", &age);   // Reads integer
-
-    printf("Hello %s, you are %d years old.\n", name, age);
-
+    sum =  num1 + num2;
+    printf("The sum of %d & %d = %d",num1, num2, sum);
     return 0;
 }
