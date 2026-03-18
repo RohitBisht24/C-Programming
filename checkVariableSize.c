@@ -1,3 +1,4 @@
+// write a program the sizes of datatype.
 #include<stdio.h>
 
 int main()
