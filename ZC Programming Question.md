@@ -37,13 +37,13 @@
 
 ## MEDIUM LEVEL (20 Questions)
 
-21. Write a program to swap two numbers using a temporary variable.
-22. Write a program to swap two numbers **without** using a temporary variable.
-23. Predict the output:
-    int a = 5, b = 2;
-    float c = a / b;
-    printf("%f", c);
-
+    21. Write a program to swap two numbers using a temporary variable.
+    22. Write a program to swap two numbers **without** using a temporary variable.
+    23. Predict the output:
+        int a = 5, b = 2;
+        float c = a / b;
+        printf("%f", c);
+    
 24. What happens when you divide an integer by zero?
 25. What is the output of `a = 10; b = 3; c = a % b;`?
 26. Explain the difference between post-increment and pre-increment with example.
