@@ -3,7 +3,7 @@
 int main()
 {
     int a , b, c;
-    printf("Enter values of three side of triangle :\n");
+    printf("Enter values of three side of triangle :-\n");
     printf("Enter the first side : ");
     scanf("%d", &a);
 

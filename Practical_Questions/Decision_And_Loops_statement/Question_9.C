@@ -1,5 +1,6 @@
-// Write a program to input month number and print number of days in day
+// Write a program to input month number and print number of days in that month.
 #include <stdio.h>
+
 int main()
 {
     int month;
@@ -9,31 +10,20 @@ int main()
 
     switch(month)
     {
-        case 1: printf("January"); 
-                break;
-        case 2: printf("February"); 
-                break;
-        case 3: printf("March"); 
-                break;
-        case 4: printf("April"); 
-                break;
-        case 5: printf("May"); 
-                break;
-        case 6: printf("June"); 
-                break;
-        case 7: printf("July"); 
-                break;
-        case 8: printf("August"); 
-                break;
-        case 9: printf("September"); 
-                break;
-        case 10: printf("October"); 
-                break;
-        case 11: printf("November"); 
-                break;
-        case 12: printf("December"); 
-                break;
-        default: printf("Invalid month number!");
+        case 1: case 3: case 5: case 7: case 8: case 10: case 12:
+            printf("31 days\n");
+            break;
+
+        case 4: case 6: case 9: case 11:
+            printf("30 days\n");
+            break;
+
+        case 2:
+            printf("28 or 29 days (Leap year depends)\n");
+            break;
+
+        default:
+            printf("Invalid month number!\n");
     }
 
     return 0;
