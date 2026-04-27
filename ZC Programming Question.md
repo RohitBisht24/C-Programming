@@ -123,3 +123,108 @@
 80. Write a program that explains the result difference between implicit and explicit conversion for the same expression.
 
 
+
+
+
+
+
+## Loop Statement Questions (50 Questions)
+
+## Basic While Loop Programs
+
+1. Write a C program to print all natural numbers from 1 to n using a while loop.
+2. Write a C program to print all natural numbers in reverse (from n to 1) using a while loop.
+3. Write a C program to print all alphabets from a to z using a while loop.
+4. Write a C program to print all even numbers between 1 to 100 using a while loop.
+5. Write a C program to print all odd numbers between 1 to 100.
+
+## Sum Programs
+
+6. Write a C program to find sum of all natural numbers between 1 to n.
+7. Write a C program to find sum of all even numbers between 1 to n.
+8. Write a C program to find sum of all odd numbers between 1 to n.
+
+## Basic Number Operations
+
+9. Write a C program to print multiplication table of any number.
+10. Write a C program to count number of digits in a number.
+11. Write a C program to find first and last digit of a number.
+12. Write a C program to find sum of first and last digit of a number.
+
+## Digit Manipulation
+
+13. Write a C program to swap first and last digits of a number.
+14. Write a C program to calculate sum of digits of a number.
+15. Write a C program to calculate product of digits of a number.
+16. Write a C program to enter a number and print its reverse.
+17. Write a C program to check whether a number is palindrome or not.
+18. Write a C program to find frequency of each digit in a given integer.
+19. Write a C program to enter a number and print it in words.
+
+## ASCII and Power
+
+20. Write a C program to print all ASCII characters with their values.
+21. Write a C program to find power of a number using for loop.
+
+## Factors and Factorial
+
+22. Write a C program to find all factors of a number.
+23. Write a C program to calculate factorial of a number.
+
+## HCF and LCM
+
+24. Write a C program to find HCF (GCD) of two numbers.
+25. Write a C program to find LCM of two numbers.
+
+## Prime Numbers
+
+26. Write a C program to check whether a number is prime or not.
+27. Write a C program to print all prime numbers between 1 to n.
+28. Write a C program to find sum of all prime numbers between 1 to n.
+29. Write a C program to find all prime factors of a number.
+
+## Special Numbers
+
+30. Write a C program to check whether a number is Armstrong number or not.
+31. Write a C program to print all Armstrong numbers between 1 to n.
+32. Write a C program to check whether a number is perfect number or not.
+33. Write a C program to print all perfect numbers between 1 to n.
+34. Write a C program to check whether a number is strong number or not.
+35. Write a C program to print all strong numbers between 1 to n.
+
+## Series
+
+36. Write a C program to print Fibonacci series up to n terms.
+
+## Number System Conversion
+
+37. Write a C program to find one’s complement of a binary number.
+38. Write a C program to find two’s complement of a binary number.
+39. Write a C program to convert Binary to Octal number system.
+40. Write a C program to convert Binary to Decimal number system.
+41. Write a C program to convert Binary to Hexadecimal number system.
+42. Write a C program to convert Octal to Binary number system.
+43. Write a C program to convert Octal to Decimal number system.
+44. Write a C program to convert Octal to Hexadecimal number system.
+45. Write a C program to convert Decimal to Binary number system.
+46. Write a C program to convert Decimal to Octal number system.
+47. Write a C program to convert Decimal to Hexadecimal number system.
+48. Write a C program to convert Hexadecimal to Binary number system.
+49. Write a C program to convert Hexadecimal to Octal number system.
+50. Write a C program to convert Hexadecimal to Decimal number system.
+
+## Patterns
+
+51. Write a C program to print Pascal triangle up to n rows.
+52. Write C programs to print star patterns.
+53. Write C programs to print number patterns.
+
+## Additional Programs
+
+54. Write a C program to print strong numbers between 1 to n.
+55. Write a C program to find prime factors of a number.
+
+---
+
+
+
